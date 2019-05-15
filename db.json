@@ -1,5 +1,6 @@
-[
-   {
+{
+   "pengalaman" :
+ [{
   "judul": "PKM (Program Kreativitas Mahasiswa)",
   "keterangan": "Internal UGM",
   "tahun": "2019"
@@ -11,5 +12,5 @@
   "judul": "1000 Startup Digital",
   "keterangan": "Bootcamp",
   "tahun": "2017"
-  }
-]
+  }]
+}
